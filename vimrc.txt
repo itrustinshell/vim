@@ -1,5 +1,10 @@
 set number
 syntax on
-set autoindent
 set mouse=a
+
+#indentation
+set autoindent
 set cindent
+set noexpandtab
+set tabstop=4
+set shiftwidth=4
